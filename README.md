@@ -1,12 +1,13 @@
  amazon-pricing-analysis
-A hands-on analysis of Amazon marketplace data to understand pricing patterns and discount trends.
-Amazon Pricing & Discount Analysis
+
+ A hands-on analysis of Amazon marketplace data to understand pricing patterns and discount trends.
+ Amazon Pricing & Discount Analysis
 
  About This Project
 
-This project explores product pricing and discount patterns within an Amazon marketplace dataset. The goal was to clean and structure raw data, then extract insights that could help understand how discounts are applied across categories and how they relate to customer ratings.
+ This project explores product pricing and discount patterns within an Amazon marketplace dataset. The goal was to clean and structure raw data, then extract insights that     could help understand how discounts are applied across categories and how they relate to customer ratings.
 
-Instead of focusing only on visualization, I concentrated on building a clean dataset first and making sure calculations were accurate before drawing conclusions.
+ Instead of focusing only on visualization, I concentrated on building a clean dataset first and making sure calculations were accurate before drawing conclusions.
 
  What I Did
 
