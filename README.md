@@ -1,43 +1,67 @@
- amazon-pricing-analysis
+# Amazon Pricing & Discount Analysis (Python)
 
- A hands-on analysis of Amazon marketplace data to understand pricing patterns and discount trends.
- Amazon Pricing & Discount Analysis
+A hands-on exploratory data analysis project examining pricing patterns and discount behavior within an Amazon marketplace dataset.
 
- About This Project
+---
 
- This project explores product pricing and discount patterns within an Amazon marketplace dataset. The goal was to clean and structure raw data, then extract insights that     could help understand how discounts are applied across categories and how they relate to customer ratings.
+## Project Overview
 
- Instead of focusing only on visualization, I concentrated on building a clean dataset first and making sure calculations were accurate before drawing conclusions.
+This project analyzes product pricing and discount trends using a structured Amazon dataset.  
+The primary objective was to clean raw data, engineer meaningful variables, and identify patterns in pricing strategies across product categories.
 
- What I Did
+The analysis emphasizes data preparation accuracy before drawing analytical conclusions.
 
- Cleaned and standardized price and discount values
- Converted percentage fields into usable numeric formats
- Created new variables such as discount amount and discount rate
- Explored pricing distribution using log transformation
- Compared discount levels across product categories
- Examined the relationship between discount depth and customer ratings
+---
 
- Tools & Technologies
+## Objectives
 
- Python
- Pandas
- NumPy
- Matplotlib
- Jupyter Notebook
+- Clean and standardize pricing and discount fields  
+- Convert percentage values into numeric formats  
+- Engineer new variables such as discount amount and discount rate  
+- Analyze pricing distribution using log transformation  
+- Compare discount depth across product categories  
+- Evaluate the relationship between discount levels and customer ratings  
 
- Key Observations
+---
 
- Price distribution was highly skewed before transformation
- Higher discounts did not consistently translate into better ratings
- Some categories showed repeated discount strategies
+## Key Insights
 
- Project Structure
+- Price distribution was highly skewed prior to transformation.  
+- Higher discounts did not consistently correlate with higher customer ratings.  
+- Certain product categories displayed repeated discount strategies.  
 
- data/   Raw dataset
- notebooks/  Full analysis notebook
- outputs/figures/  Generated visualizations
+---
 
- Why This Project Matters
+## Key Skills Demonstrated
 
-Understanding discount patterns can help businesses evaluate pricing strategies and promotional behavior. This project demonstrates my ability to clean structured data, build calculated fields, and extract insights through exploratory analysis.
+- Data cleaning and preprocessing  
+- Feature engineering  
+- Exploratory data analysis (EDA)  
+- Log transformation for distribution normalization  
+- Comparative category-level analysis  
+- Analytical interpretation of structured datasets  
+
+---
+
+## Tools & Technologies
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Jupyter Notebook  
+
+---
+
+## Project Structure
+
+data/ # Raw dataset
+notebooks/ # Full analysis notebook
+outputs/figures/ # Generated visualizations
+
+---
+
+## Business Relevance
+
+Understanding discount patterns can support pricing strategy evaluation and promotional planning.  
+This project demonstrates the ability to transform raw marketplace data into structured insights that inform decision-making.
