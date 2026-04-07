@@ -1,41 +1,41 @@
 # Amazon Pricing & Discount Analysis
 
-This project looks at how prices and discounts change across different product categories on Amazon.
+This project reviews Amazon pricing data to see how prices and discounts change across product categories.
 
 ---
 
-## About this project
+## Overview
 
-I worked with a pricing dataset to understand how discounts are applied and how they vary between categories. The goal was to explore patterns and see how pricing behavior changes depending on the type of product.
-
----
-
-## What I did
-
-- Cleaned the dataset and fixed formatting issues  
-- Created new columns to calculate discounts  
-- Compared categories to look for patterns  
-- Organized the data to make it easier to analyze  
+I used Python and Pandas to clean the dataset, create discount-related fields, and compare categories. The goal was to understand how discount behavior changes from one category to another.
 
 ---
 
-## What I found
+## Work Included
 
-- Some categories had higher discounts than others  
-- Discounts were not consistent across all products  
-- Pricing patterns can vary a lot depending on the category  
-
----
-
-## Tools used
-
-- Python  
-- Pandas  
+- Cleaned the dataset and fixed formatting issues
+- Created columns to measure discount differences
+- Compared categories to look for pricing patterns
+- Organized the data for easier analysis
 
 ---
 
-## What I learned
+## Main Findings
 
-- Cleaning data takes time and attention to detail  
-- Small errors in the data can affect results  
-- Exploring data step by step helps understand it better  
+- Some categories had higher discounts more often
+- Discounts were not spread evenly across all products
+- Pricing behavior changed depending on the category
+
+---
+
+## Tools
+
+- Python
+- Pandas
+
+---
+
+## What I Learned
+
+- Clean data matters as much as the analysis
+- Small errors can affect the results
+- Breaking the work into steps makes the data easier to understand
