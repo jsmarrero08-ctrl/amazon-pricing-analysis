@@ -33,6 +33,7 @@ I used Python and Pandas to clean the dataset, create discount-related fields, a
 - Pandas
 - Matplotlib
 - Seaborn
+  
 ---
 
 ## What I Learned
@@ -48,6 +49,8 @@ I used Python and Pandas to clean the dataset, create discount-related fields, a
 
 ### Top Categories by Average Discount
 ![Top Categories by Average Discount](outputs/figures/top_categories_avg_discount.png)
+
+---
 
 ## Project Files
 
